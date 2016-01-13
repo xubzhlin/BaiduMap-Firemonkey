@@ -8,4 +8,4 @@ Version:1.0.0.0
 
 +BaiduMaoLocationService  定位地图
 
-更多功能敬请期待。
+目前只封装了iOS部分，安卓部分敬请期待。
